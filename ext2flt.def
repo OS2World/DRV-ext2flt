@@ -1,0 +1,10 @@
+LIBRARY		EXT2FLT
+DESCRIPTION	'Linux ext2 partition filter (Alpha)'
+PROTMODE
+
+SEGMENTS
+ _DATA		CLASS 'DATA'
+ _BSS		CLASS 'BSS'
+ _TEXT		CLASS 'CODE'
+
+ 

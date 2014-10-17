@@ -1,0 +1,10 @@
+This is the source for the ext2flt filter. I have used BC++ 3.1 and TASM
+(3.0 I think) to compile and assemble it. LINK is the linker included with
+OS/2. The missing include files are part of the DDK.
+
+Please note the conditions of use in the source files themselves.
+
+Deon van der Westhuysen
+s9577238@itu3.sun.ac.za
+vdwest@quark.cs.sun.ac.za
+
